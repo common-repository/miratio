@@ -1,0 +1,10 @@
+.wooweb-company {
+  display: none;
+}
+.woocommerce .select2-container .select2-selection--single, .woocommerce select, .woocommerce-page .select2-container .select2-selection--single, .woocommerce-page select {
+  padding: .35em;
+}
+
+.woocommerce form .form-row .select2-container {
+  width: 100% !important;
+}
